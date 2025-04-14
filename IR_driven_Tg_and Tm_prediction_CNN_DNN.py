@@ -59,7 +59,7 @@ def extract_number(filename):
 
 
 # Assuming all CSV files are in the directory 'data_directory'
-data_directory = 'D:/university of bath postdoc files/files from x drive/codes_to_submit/data'
+data_directory = '' #write here the directory path
 file_names = os.listdir(data_directory)
 
 # Sort the file names based on numerical values extracted
