@@ -4,3 +4,6 @@ Machine learning models are trained on both types of inputs to evaluate and comp
 
 Data folder includes FTIR signals of the polymers.
 The Polymer_Datase Excel file contains polymer names, glass transition and melting temperatures, SMILES descriptions, and labels corresponding to the signal measurements.
+meta.csv contains: polymer labels, Tg, and Tm respectively.
+The graphs.csv file contains the FTIR signals along with the corresponding polymer labels.
+
