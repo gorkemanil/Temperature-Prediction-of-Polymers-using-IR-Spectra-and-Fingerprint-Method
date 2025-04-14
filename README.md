@@ -2,5 +2,12 @@ This study focuses on predicting the thermal properties, specifically the glass 
 The IR spectra capture the vibrational characteristics of polymer chemical bonds, offering a direct physical insight into material composition, while the fingerprint method provides a structured chemical descriptor derived from molecular structures. 
 Machine learning models are trained on both types of inputs to evaluate and compare their predictive performance. The results highlight the advantages and limitations of each approach, providing a comprehensive understanding of how spectral and structural information contribute to accurate thermal property prediction of polymers.
 
+
 Data folder includes FTIR signals of the polymers.
+
 The Polymer_Datase Excel file contains polymer names, glass transition and melting temperatures, SMILES descriptions, and labels corresponding to the signal measurements.
+
+meta.csv contains: polymer labels, Tg, and Tm respectively.
+
+The graphs.csv file contains the FTIR signals along with the corresponding polymer labels.
+
