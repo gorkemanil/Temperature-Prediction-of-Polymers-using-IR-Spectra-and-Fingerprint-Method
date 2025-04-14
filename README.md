@@ -3,3 +3,4 @@ The IR spectra capture the vibrational characteristics of polymer chemical bonds
 Machine learning models are trained on both types of inputs to evaluate and compare their predictive performance. The results highlight the advantages and limitations of each approach, providing a comprehensive understanding of how spectral and structural information contribute to accurate thermal property prediction of polymers.
 
 Data folder includes FTIR signals of the polymers.
+The Polymer_Datase Excel file contains polymer names, glass transition and melting temperatures, SMILES descriptions, and labels corresponding to the signal measurements.
